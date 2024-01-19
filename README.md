@@ -3,7 +3,7 @@ A simple web design created using html
 
 **Description:** I developed the Cat Photo App as part of an online course on freeCodeCamp to reinforce my understanding of HTML basics. The project allowed me to practice structuring web pages and creating simple interactive elements.
 
-**Technologies Used:**
+**Technology Used:**
 - HTML
 
 **Features:**
