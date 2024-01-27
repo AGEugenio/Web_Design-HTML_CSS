@@ -1,5 +1,5 @@
 # Web_Design_HTML_CSS
-This is my personal version control and backup of files on the projects I did as part of one of the online course in freeCodeCamp. 
+This is my personal backup of files on the projects I did as part of one of the online course in freeCodeCamp. 
 
 I am currently enrolled in the "Responsive Web Design" course on freeCodeCamp, where I am delving into the foundational languages for webpage creation:
 - HTML (Hypertext Markup Language) for content.
