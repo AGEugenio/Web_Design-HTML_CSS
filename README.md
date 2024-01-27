@@ -11,7 +11,7 @@ I am currently enrolled in the "Responsive Web Design" course on freeCodeCamp, w
 </p>
 <br>
 
-**Description:** I developed the Cat Photo App as part of an online course on freeCodeCamp to reinforce my understanding of HTML basics. The project allowed me to practice structuring web pages and creating simple interactive elements.
+**Description:** I developed the Cat Photo App as part of my enrolled course on freeCodeCamp to reinforce my understanding of HTML basics. The project allowed me to practice structuring web pages and creating simple interactive elements.
 
 **Features:**
 - Display cat photos
@@ -21,6 +21,17 @@ I am currently enrolled in the "Responsive Web Design" course on freeCodeCamp, w
 <br>
 
 **Cafe Menu**
+<p>
+  <img src="https://github.com/AGEugenio/Web_Design_HTML_CSS/assets/113889259/6f6bc139-1bc3-43ae-a0ef-9e20263d1681" width="40%">
+</p>
+
+**Description:** I created the Cafe Menu as part of the said course on freeCodeCamp, with a focus on CSS. This project was instrumental in honing my skills in styling HTML elements, allowing me to set colors, fonts, sizes, and other visual aspects.
+
+**Features:**
+-  Set a background photo to enhance visual appeal
+- Utilized selectors to style HTML elements for a cohesive design
+- Manipulated the layout and positioning of HTML elements for optimal presentation
+
 
 
 
