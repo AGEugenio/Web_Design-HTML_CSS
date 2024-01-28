@@ -1,7 +1,7 @@
 # Web_Design_HTML_CSS
-This is my personal backup of files on the projects I did as part of one of the online course in freeCodeCamp. 
+This is my personal backup of files on the projects I did as part of one of the online course on freeCodeCamp. 
 
-I am currently enrolled in the "Responsive Web Design" course on freeCodeCamp, where I am delving into the foundational languages for webpage creation:
+I am currently enrolled in the "<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a>" course on freeCodeCamp, where I am delving into the foundational languages for webpage creation:
 - HTML (Hypertext Markup Language) for content.
 - CSS (Cascading Style Sheets) for design.
 
