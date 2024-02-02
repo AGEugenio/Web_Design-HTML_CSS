@@ -40,10 +40,10 @@ I am currently enrolled in the "<a href="https://www.freecodecamp.org/learn/2022
 **Description:** I developed the Set of Colored Markers project as part of the freeCodeCamp course, where I explored various techniques for setting color values and learned about color pairing. This project has been helpful in enhancing my ability to select and apply colors, thereby improving the aesthetic appeal of web designs.
 
 **Features:**
-- Set colors using different methods: rgb, hsl, and hsv.
-- Adjust the opacity of colors to control transparency.
-- Apply gradients to create smooth color transitions.
-- Add shadows for depth and dimension.
+- Set colors using different methods: rgb, hsl, and hsv
+- Adjust the opacity of colors to control transparency
+- Apply gradients to create smooth color transitions
+- Add shadows for depth and dimension
 
 
 
