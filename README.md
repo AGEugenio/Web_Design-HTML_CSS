@@ -32,6 +32,18 @@ I am currently enrolled in the "<a href="https://www.freecodecamp.org/learn/2022
 - Utilized selectors to style HTML elements for a cohesive design
 - Manipulated the layout and positioning of HTML elements for optimal presentation
 
+**Colored Markers**
+<p>
+  <img src="https://github.com/AGEugenio/Web_Design-HTML_CSS/assets/113889259/6bd6395d-adab-413e-b638-02917afcf4e9" width="40%">
+</p>
+
+**Description:** I developed the Set of Colored Markers project as part of the freeCodeCamp course, where I explored various techniques for setting color values and learned about color pairing. This project has been helpful in enhancing my ability to select and apply colors, thereby improving the aesthetic appeal of web designs.
+
+**Features:**
+- Set colors using different methods: rgb, hsl, and hsv.
+- Adjust the opacity of colors to control transparency.
+- Apply gradients to create smooth color transitions.
+- Add shadows for depth and dimension.
 
 
 
