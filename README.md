@@ -31,6 +31,7 @@ I am currently enrolled in the "<a href="https://www.freecodecamp.org/learn/2022
 -  Set a background photo to enhance visual appeal
 - Utilized selectors to style HTML elements for a cohesive design
 - Manipulated the layout and positioning of HTML elements for optimal presentation
+<br>
 
 **Colored Markers**
 <p>
