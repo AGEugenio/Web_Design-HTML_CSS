@@ -45,6 +45,15 @@ I am currently enrolled in the "<a href="https://www.freecodecamp.org/learn/2022
 - Adjust the opacity of colors to control transparency
 - Apply gradients to create smooth color transitions
 - Add shadows for depth and dimension
+<br>
 
+**Registration Form**
+<p>
+  <img src="https://github.com/AGEugenio/Web_Design-HTML_CSS/assets/113889259/eae12a87-d7db-4ce4-9364-481390ca91f1" width="60%">
+</p>
+
+**Description:**
+
+**Features:**
 
 
